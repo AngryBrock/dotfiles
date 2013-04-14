@@ -1,0 +1,7 @@
+[user]
+	name = Troy Trimble
+	email = troy.trimble@gmail.com
+[core]
+	editor = vim
+[merge]
+	tool = vimdiff
